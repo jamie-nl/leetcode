@@ -11,5 +11,5 @@ class Solution:
                 return [m[diff], i]
 
             m[nums[i]] = i
-        
+
         return []
