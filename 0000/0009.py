@@ -5,5 +5,5 @@ class Solution:
 
         if f_string != r_string:
             return False
-        
+
         return True
